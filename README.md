@@ -1,9 +1,9 @@
-# Course project at drmark@bitbucket.org:CS_474_2017/cs474_2017_hw4.git
+# Course project at git@bitbucket.org:drmark/randomjavaprogramgenerator.git
 ### Description: create a random Java program generator
 ### Grade: 25%
 
 ## Overview
-In your course project, you will gain experience with creating a generator that creates a syntactically correct but semantically meaningless Java application. The input to your program is a configuration file that defines various parameters that constrain the generation of a Java application (e.g., the number of lines of code and the number of classes).  The git repo for HW4 can be cloned using the command `git clone drmark@bitbucket.org:CS_474_2017/cs474_2017_hw4.git`.
+In your course project, you will gain experience with creating a generator that creates a syntactically correct but semantically meaningless Java application. The input to your program is a configuration file that defines various parameters that constrain the generation of a Java application (e.g., the number of lines of code and the number of classes).  The git repo for HW4 can be cloned using the command `git clone git@bitbucket.org:drmark/randomjavaprogramgenerator.git`.
 
 Consider the following simple grammar that contains seven production rules:
 ```
@@ -81,7 +81,7 @@ As your TA specified, please follow this naming convention while submitting your
 As usual, I allow you to post questions and replies, statements, comments, discussion, etc. on Piazza either using your names or anonymously. Remember that you cannot share your code and your solutions beyond your forkmate group, but you can ask and advise others using Piazza on where resources and sample programs can be found on the internet, how to resolve dependencies and configuration issues, and how to design the logic of the algorithm, as usual. Yet, your implementation should be your own and you cannot share it beyond your forkmate group. Alternatively, you cannot copy and paste someone else's implementation and put your name on it. Your submissions will be checked for plagiarism. When posting question and answers on Piazza, please select the appropriate folder, i.e., hw3 to ensure that all discussion threads can be easily located.
 
 ## Submission
-Submission deadline: Friday, November 17 at 10PM CST. Your submission will include your source code, the SBT build configuration, the IntelliJ project, the README.md file in the root directory that contains the description of your implementation, how to compile and run it using SBT, and what are the limitations of your implementation.
+Submission deadline: Wednesday, December 13 at 10PM CST. Your submission will include your source code, the SBT and Gradle build configurations, the IntelliJ project, the README.md file in the root directory that contains the description of your implementation, how to compile and run it, and what are the limitations of your implementation. You should describe what JSL rules you implemented and how their work.
 
 THE INSTRUCTOR (and the TA) WILL NOT ANSWER ANY REQUESTS FROM STUDENTS STARTING 7PM THE NIGHT BEFORE THE SUBMISSION DEADLINE.
 
