@@ -1,0 +1,13 @@
+<ProgGen>
+    <noOfClasses>10</noOfClasses>
+    <maxNoOfClassFields>5</maxNoOfClassFields>
+    <ConstructorDeclaration>3</ConstructorDeclaration>
+    <maxNoOfMethodsPerClass>0</maxNoOfMethodsPerClass>
+    <maxNoofRecursiveMethods>3</maxNoofRecursiveMethods>
+    <noOfInterfaces>5</noOfInterfaces>
+    <maxNoOfMethodsPerInterface>7</maxNoOfMethodsPerInterface>
+    <maxNoOfParametersPerMethod>7</maxNoOfParametersPerMethod>
+    <StatementsPerMethod>15</StatementsPerMethod>
+    <maxLoops>10</maxLoops>
+    <maxifstatement>10</maxifstatement>
+</ProgGen>
